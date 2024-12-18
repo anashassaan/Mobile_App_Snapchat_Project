@@ -1,18 +1,13 @@
-Perfect! We now have the code for both `login_controller.dart` and `signup_controller.dart`. This completes the essential components needed for your project.
-
-### README File Creation
-Based on all the information and code files you've provided, here is a detailed README file for your project:
-
 ---
 
 # Snapchat Clone Project
 
 ## Overview
-This project is a clone of the popular Snapchat app, created using Flutter. It includes features such as user authentication, camera functionality with filters, and user profile management.
+This project is a clone of the popular Snapchat app, created using Flutter. It includes features such as user authentication, camera functionality , and user profile management.
 
 ## Features
 - **User Authentication**: Sign up, log in, and log out functionality using Firebase Authentication.
-- **Camera Functionality**: Capture photos and videos with Snapchat-like filters using `camera_deep_ar`.
+- **Camera Functionality**: Capture photos
 - **User Profile**: View and edit user profiles, with the ability to log out.
 - **Chat**: Basic chat functionality.
 - **Stories**: View and create stories.
@@ -27,7 +22,7 @@ This project is a clone of the popular Snapchat app, created using Flutter. It i
 ## Installation
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-username/snapchat-clone.git
+   https://github.com/anashassaan/Mobile_App_Snapchat_Project.git
     ```
 2. Navigate to the project directory:
     ```bash
@@ -80,12 +75,8 @@ snapchat-clone/
 ## Usage
 - Open the app.
 - Register or log in to your account.
-- Use the camera screen to take photos and apply filters.
+- Use the camera screen to take photos.
 - Access your user profile to log out.
-- Chat with friends.
-- View and create stories.
-- Access location-based services.
-- Watch videos and spotlight content.
 
 ## Dependencies
 - `flutter`
@@ -110,5 +101,21 @@ This project is licensed under the MIT License.
 ![User Profile Screen](screenshots/user_profile.png)
 
 ---
+Submission
+Share the link to your GitHub repository.
 
-Now, you can use this README template for your project. If there are any additional details you'd like to include or modify, feel free to let me know!
+Example Mockup
+Here’s an example of how your mockup should look:
+
+
+Example Video Demo
+Here’s an example of how to embed your video:
+
+
+If you find this repository helpful, don’t forget to star it!
+
+Feedback
+If you have any suggestions, feedback, or queries, feel free to reach out or raise an issue on the repository. Let’s make learning Flutter an enjoyable journey!
+
+⭐ Star This Repository: If you find this repository helpful, kindly star it to show your appreciation and support.
+
