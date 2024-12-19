@@ -62,3 +62,26 @@ class SnapchatApp extends StatelessWidget {
 
 
 // 176711649d13920456b73669c47a338be2f4837cf18ed55bb46da3e32f212ca2cfcb7b49c46ae3f5   API KEY
+
+
+
+
+// IconButton(
+//           onPressed: () async {
+//             await _signOut(context);
+//           },
+//           icon: const Icon(Icons.logout),
+//         ),
+
+// Future<void> _signOut(BuildContext context) async {
+//     try {
+//       await FirebaseAuth.instance.signOut();
+//       Navigator.pushNamed(context, '/initial_screen');
+//     } catch (e) {
+//       ScaffoldMessenger.of(context).showSnackBar(
+//         SnackBar(
+//           content: Text('Failed to sign out: $e'),
+//         ),
+//       );
+//     }
+//   }

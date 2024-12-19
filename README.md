@@ -95,10 +95,6 @@ This project is licensed under the MIT License.
 
 ---
 
-# Screenshots
-![Login Screen](screenshots/login_screen.png)
-![Camera Screen](screenshots/camera_screen.png)
-![User Profile Screen](screenshots/user_profile.png)
 
 ---
 Submission
